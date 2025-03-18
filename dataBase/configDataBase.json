@@ -1,14 +1,14 @@
 {
     "DevConfig":{
         "service":{
-            "host":"127.0.0.1",
-            "port":5000
+            "host":"blgpjtaecvelm354kmuz-mysql.services.clever-cloud.com",
+            "port":3306
         },
         "db":{
-            "host":"127.0.0.1",
-            "user":"root",
-            "passwoord":"2004",
-            "database":"bruma"
+            "host":"blgpjtaecvelm354kmuz-mysql.services.clever-cloud.com",
+            "user":"unxge24rzw3yvqlm",
+            "passwoord":"XXpIzouHHlEPGfhu9l0x",
+            "database":"blgpjtaecvelm354kmuz"
             
 
 
