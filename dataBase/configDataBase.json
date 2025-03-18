@@ -1,0 +1,20 @@
+{
+    "DevConfig":{
+        "service":{
+            "host":"127.0.0.1",
+            "port":5000
+        },
+        "db":{
+            "host":"127.0.0.1",
+            "user":"root",
+            "passwoord":"2004",
+            "database":"bruma"
+            
+
+
+        }
+    }
+
+
+
+}
