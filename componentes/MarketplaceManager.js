@@ -35,7 +35,7 @@ class MarketManager {
 
     prepareService = async () => {
         this.#appExpress.use(cors({
-            origin: 'https://mellifluous-cucurucho-6c5539.netlify.app/',
+            origin: 'https://mellifluous-cucurucho-6c5539.netlify.app',
             methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
             allowedHeaders: 'Content-Type,Authorization'
         }));
